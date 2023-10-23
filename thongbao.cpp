@@ -12,6 +12,11 @@ int main() {
     std::cout << "trong nhan 85";
 
     std::cout << "ngoi sao code";
+<<<<<<< HEAD
 
     std::cout << "them code tu main"
+=======
+    
+    std::cout << "toi la 1 nguoi tot";
+>>>>>>> Feature-New-85
 }
