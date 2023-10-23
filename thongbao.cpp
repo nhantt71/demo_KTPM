@@ -12,4 +12,6 @@ int main() {
     std::cout << "trong nhan 85";
 
     std::cout << "ngoi sao code";
+
+    std::cout << "them code tu main"
 }
