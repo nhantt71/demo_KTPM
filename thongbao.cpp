@@ -8,4 +8,6 @@ int main() {
 
     std::cout << "hi";
     std::cout << "user 2 sua file cpp";
+
+    std::cout << "trong nhan 85";
 }
