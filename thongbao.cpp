@@ -10,4 +10,6 @@ int main() {
     std::cout << "user 2 sua file cpp";
 
     std::cout << "trong nhan 85";
+
+    std::cout << "ngoi sao code";
 }
