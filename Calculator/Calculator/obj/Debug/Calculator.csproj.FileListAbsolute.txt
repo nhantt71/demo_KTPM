@@ -8,3 +8,13 @@ D:\ktpm3010\demo_KTPM\Calculator\Calculator\obj\Debug\Calculator.csproj.Generate
 D:\ktpm3010\demo_KTPM\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 D:\ktpm3010\demo_KTPM\Calculator\Calculator\obj\Debug\Calculator.exe
 D:\ktpm3010\demo_KTPM\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\ktpm\demo_KTPM\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\ktpm\demo_KTPM\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\ktpm\demo_KTPM\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\ktpm\demo_KTPM\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\ktpm\demo_KTPM\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\ktpm\demo_KTPM\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\ktpm\demo_KTPM\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\ktpm\demo_KTPM\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\ktpm\demo_KTPM\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\ktpm\demo_KTPM\Calculator\Calculator\obj\Debug\Calculator.pdb
