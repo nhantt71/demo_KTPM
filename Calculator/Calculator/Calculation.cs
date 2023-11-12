@@ -14,6 +14,7 @@ namespace Calculator
             this.a = a;
             this.b = b;
         }
+
         public int Execute(string CalSymbol)
         {
             int result = 0;

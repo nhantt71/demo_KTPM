@@ -18,3 +18,13 @@ D:\ktpm\demo_KTPM\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateReso
 D:\ktpm\demo_KTPM\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 D:\ktpm\demo_KTPM\Calculator\Calculator\obj\Debug\Calculator.exe
 D:\ktpm\demo_KTPM\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Workspace\demo_KTPM\demo_KTPM\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Workspace\demo_KTPM\demo_KTPM\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Workspace\demo_KTPM\demo_KTPM\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Workspace\demo_KTPM\demo_KTPM\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Workspace\demo_KTPM\demo_KTPM\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Workspace\demo_KTPM\demo_KTPM\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Workspace\demo_KTPM\demo_KTPM\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Workspace\demo_KTPM\demo_KTPM\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Workspace\demo_KTPM\demo_KTPM\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Workspace\demo_KTPM\demo_KTPM\Calculator\Calculator\obj\Debug\Calculator.pdb
