@@ -1,0 +1,21 @@
+{
+  "id": "cf99f773-de95-4925-8b8f-e3b00010a57c",
+  "version": "2.0",
+  "name": "demoSelenium",
+  "url": "",
+  "tests": [{
+    "id": "11ff3cc1-75d8-4a2a-91f0-0c7b15b8c697",
+    "name": "Chay 2 web",
+    "commands": []
+  }],
+  "suites": [{
+    "id": "2bd79f63-3e57-498f-a277-f9a73d81092c",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["11ff3cc1-75d8-4a2a-91f0-0c7b15b8c697"]
+  }],
+  "urls": [],
+  "plugins": []
+}
