@@ -1,0 +1,17 @@
+D:\SeleniumDemoProject\SeleniumDemoProject\bin\Debug\selenium-manager\linux\selenium-manager
+D:\SeleniumDemoProject\SeleniumDemoProject\bin\Debug\selenium-manager\macos\selenium-manager
+D:\SeleniumDemoProject\SeleniumDemoProject\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\SeleniumDemoProject\SeleniumDemoProject\bin\Debug\SeleniumDemoProject.exe.config
+D:\SeleniumDemoProject\SeleniumDemoProject\bin\Debug\SeleniumDemoProject.exe
+D:\SeleniumDemoProject\SeleniumDemoProject\bin\Debug\SeleniumDemoProject.pdb
+D:\SeleniumDemoProject\SeleniumDemoProject\bin\Debug\WebDriver.dll
+D:\SeleniumDemoProject\SeleniumDemoProject\bin\Debug\Newtonsoft.Json.dll
+D:\SeleniumDemoProject\SeleniumDemoProject\bin\Debug\WebDriver.xml
+D:\SeleniumDemoProject\SeleniumDemoProject\obj\Debug\SeleniumDemoProject.csproj.AssemblyReference.cache
+D:\SeleniumDemoProject\SeleniumDemoProject\obj\Debug\SeleniumDemoProject.Form1.resources
+D:\SeleniumDemoProject\SeleniumDemoProject\obj\Debug\SeleniumDemoProject.Properties.Resources.resources
+D:\SeleniumDemoProject\SeleniumDemoProject\obj\Debug\SeleniumDemoProject.csproj.GenerateResource.cache
+D:\SeleniumDemoProject\SeleniumDemoProject\obj\Debug\SeleniumDemoProject.csproj.CoreCompileInputs.cache
+D:\SeleniumDemoProject\SeleniumDemoProject\obj\Debug\SeleniumDemoProject.csproj.CopyComplete
+D:\SeleniumDemoProject\SeleniumDemoProject\obj\Debug\SeleniumDemoProject.exe
+D:\SeleniumDemoProject\SeleniumDemoProject\obj\Debug\SeleniumDemoProject.pdb
